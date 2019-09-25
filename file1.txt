@@ -1,0 +1,61 @@
+﻿A) Задачи по VirtualBox (Обязательноооооо)
+=== 
+1) Установить VirtualBox
+=== Видео:
+=== - https://www.youtube.com/watch?v=EDj3zJ-nVGs
+=== 
+=== Ссылка на VirtualBox
+=== -
+ https://www.virtualbox.org/wiki/Downloads
+=== 
+=== 
+2) Установить Ubuntu на VirtualBox
+=== - https://www.youtube.com/watch?v=vY9QNwX_IsY
+=== 
+===
+ 3) Установить Centos 7 на VirtualBox
+=== - https://www.youtube.com/watch?v=-hNMW1PMq4w
+=== 
+=== 
+4) Когда разобрались с 1, 2, 3 самим догодаться и установить windows 10 на VirtualBox
+
+B)
+ Почитать (Обязательнооо)
+=== SSH
+=== - https://guides.hexlet.io/ssh/
+=== 
+=== WebServer
+=== - 
+https://developer.mozilla.org/ru/docs/Learn/%D0%A7%D1%82%D0%BE_%D1%82%D0%B0%D0%BA%D0%BE%D0%B5_%D0%B2%D0%B5%D0%B1_%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80
+=== - 
+https://semantica.in/blog/chto-takoe-veb-server.html
+=== 
+=== FTP
+=== - 
+https://compress.ru/article.aspx?id=10386
+=== - 
+https://semantica.in/blog/chto-takoe-ftp-server.html
+=== 
+=== FIREWALL
+=== - 
+https://2ip.ru/article/firewall/
+
+C) Сделать alias(короткие команды) для git в gitbash (Очень хотелось бы!!!!!!!!!!!!!)
+=== - 
+http://kurtdowswell.com/software-development/git-bash-aliases/
+=== - 
+https://coderwall.com/p/_-ypzq/git-bash-fixing-it-with-alias-and-functions
+
+D) Как работает интернет чуть больше (Надо)
+=== - 
+https://developer.mozilla.org/ru/docs/Learn/How_the_Internet_works
+=== - 
+https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works
+
+
+В
+ следующий раз у всех должно быть на ноутбуках VirtualBox и там Ubuntu 18 LTS
+Кто берет ноутбуки у нас в a-level, 
+Не проблема, дома сделайте это всё дело обязательно. На уроке я вам дам доступы кое куда, если ноутбуки не свои)
+
+Будем стараться еще и практиковаться на уроке!
